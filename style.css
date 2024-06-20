@@ -1,0 +1,38 @@
+
+ body{
+    background-color: rgb(114, 102, 37, 4);
+    margin: 0;
+    padding-top: 2%;
+
+}
+.header{
+    border: solid black 4px;
+    text-align:center;
+    background-color: rgb(156, 136, 38);
+    font-size: 150%;
+
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    justify-content:space-evenly;
+    margin: 2%;
+    margin-bottom: 4%;
+    font-size: 1.8rem;
+    padding: 8px
+}
+
+.navbar a{
+    color: black;
+
+}
+
+.navbar a:hover{
+    color: rgba(74, 33, 112, 0.598);
+
+}
+.content{
+    text-align: center;
+    font-size: 1.4rem;
+    
+}
